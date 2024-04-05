@@ -1,4 +1,4 @@
-/*--------------------------------------------------------------
+ /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
@@ -195,7 +195,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #f800ce;
 }
 
 #header .logo img {
@@ -218,7 +218,7 @@ h6 {
 }
 
 .book-a-table-btn:hover {
-  background: #cda45e;
+  background: #f800ce;
   color: #fff;
 }
 
@@ -273,7 +273,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #d9ba85;
+  color: #f800ce;
 }
 
 .navbar .dropdown ul {
@@ -403,7 +403,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #cda45e;
+  color: #cd5eb7;
 }
 
 .navbar-mobile .getstarted,
@@ -486,11 +486,11 @@ h6 {
 }
 
 #hero h1 span {
-  color: #cda45e;
+  color: #f800ce;
 }
 
 #hero h2 {
-  color: #eee;
+  color: #f800ce;
   margin-bottom: 10px 0 0 0;
   font-size: 22px;
 }
@@ -516,7 +516,7 @@ h6 {
 
 #hero .btn-menu:hover,
 #hero .btn-book:hover {
-  background: #cda45e;
+  background: #f800ce;
   color: #fff;
 }
 
@@ -662,7 +662,7 @@ section {
 }
 
 .section-bg {
-  background-color: #1a1814;
+  background-color: #1a141a;
 }
 
 .section-title {
@@ -696,7 +696,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   font-family: "Playfair Display", serif;
-  color: #cda45e;
+  color: #f800ce;
 }
 /*-------------------------------------------------------------
 # Menu Section
@@ -725,7 +725,7 @@ section {
 
 .menu #menu-flters li:hover,
 .menu #menu-flters li.filter-active {
-  color: #cda45e;
+  color: #f800ce;
 }
 
 .menu #menu-flters li:last-child {
@@ -773,7 +773,7 @@ section {
 }
 
 .menu .menu-content a:hover {
-  color: #cda45e;
+  color: #f800ce;
 }
 
 .menu .menu-content span {
@@ -809,13 +809,13 @@ section {
   transition: 0.3s;
   color: #fff;
   border-radius: 0;
-  border-right: 2px solid #cda45e;
+  border-right: 2px solid #f800ce;
   font-weight: 600;
   font-size: 15px;
 }
 
 .specials .nav-link:hover {
-  color: #cda45e;
+  color: #f800ce;
 }
 
 .specials .nav-link.active {
@@ -1009,7 +1009,7 @@ select.form-control {
   float: left;
   width: 44px;
   height: 44px;
-  background: #cda45e;
+  background: #f800ce;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1139,7 +1139,7 @@ select.form-control {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #d3af71;
+  background: #f800ce;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1300,7 +1300,7 @@ select.form-control {
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #d3af71;
+  background: #e69100;
 }
 
 #footer .copyright {
