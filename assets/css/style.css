@@ -195,7 +195,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #f800ce;
+  color:  #d9ba85;
 }
 
 #header .logo img {
@@ -403,7 +403,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #cd5eb7;
+  color: #d9ba85;
 }
 
 .navbar-mobile .getstarted,
@@ -486,11 +486,11 @@ h6 {
 }
 
 #hero h1 span {
-  color: #f800ce;
+  color: #d9ba85;
 }
 
 #hero h2 {
-  color: #f800ce;
+  color: #d9ba85;
   margin-bottom: 10px 0 0 0;
   font-size: 22px;
 }
@@ -696,7 +696,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   font-family: "Playfair Display", serif;
-  color: #f800ce;
+  color: #d9ba85;
 }
 /*-------------------------------------------------------------
 # Menu Section
@@ -773,7 +773,7 @@ section {
 }
 
 .menu .menu-content a:hover {
-  color: #f800ce;
+  color: #d9ba85;
 }
 
 .menu .menu-content span {
@@ -809,7 +809,7 @@ section {
   transition: 0.3s;
   color: #fff;
   border-radius: 0;
-  border-right: 2px solid #f800ce;
+  border-right: 2px solid #d9ba85;
   font-weight: 600;
   font-size: 15px;
 }
